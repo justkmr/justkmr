@@ -43,7 +43,6 @@
   <img src="https://cdn.simpleicons.org/facebook/1877F2" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 14px; border: 1px solid #e2e8f0;" alt="Facebook" />&nbsp;
 </a>
 
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
