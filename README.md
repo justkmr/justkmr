@@ -115,7 +115,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/justkmr/justkmr/output/profile-night-rainbow.svg" alt="3D Contributions"/>
 
 
-
 <!-- ✅ Dev Quote - dark bg with yellow -->
 <h3 style="color:#f0db4f;">✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=f0db4f&authorColor=d8d8dd&symbolColor=f0db4f&backgroundColor=1c1c1c">
