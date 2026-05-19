@@ -56,6 +56,7 @@
 <img src="https://iconic-api.onrender.com/light/c" width="64px" />  <img src="https://iconic-api.onrender.com/light/cpp" width="64px" /> <img src="https://iconic-api.onrender.com/light/js" width="64px" />  <img src="https://iconic-api.onrender.com/light/typescript" width="64px" /> <img src="https://iconic-api.onrender.com/light/java" width="64px" />
 
 ## 🎨 Frontend Technology
+
 <img src="https://iconic-api.onrender.com/light/html" width="64px" /> <img src="https://iconic-api.onrender.com/light/css" width="64px" /> <img src="https://iconic-api.onrender.com/light/js" width="64px" />  <img src="https://iconic-api.onrender.com/light/tailwind" width="64px" /> <img src="https://iconic-api.onrender.com/light/vite" width="64px" /> <img src="https://iconic-api.onrender.com/light/react" width="64px" /> <img src="https://iconic-api.onrender.com/light/vite" width="64px" />
 <img src="https://iconic-api.onrender.com/light/nextjs" width="64px" />
  <img src="https://iconic-api.onrender.com/light/redux" width="64px" />
