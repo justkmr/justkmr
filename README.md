@@ -13,7 +13,6 @@
 
 </div>
 
-
 <div align="center">
   <img src="./about.svg" width="720" alt="About Me & Socials"/>
 </div>
