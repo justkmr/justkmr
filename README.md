@@ -11,7 +11,7 @@
  
 ### 👉 [View My Interactive Profile](https://justkmr.github.io/my-profile-page/)
 
-</div>
+</div> 
 
 <div align="center">
   <img src="./about.svg" width="720" alt="About Me & Socials"/>
