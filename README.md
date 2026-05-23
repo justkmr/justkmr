@@ -1,5 +1,5 @@
     
-<div align="center">
+<div align="center"> 
 <img src="https://raw.githubusercontent.com/Pintu-Kumar-1709/Pintu-Kumar-1709/main/boy.jpeg" width="100%" alt="Pintu Kumar Banner"/>
 </div>   
         
