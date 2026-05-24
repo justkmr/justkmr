@@ -26,7 +26,7 @@
 <a href="https://github.com/justkmr" target="_blank" rel="noopener noreferrer">
     <img src="https://iconic-api.onrender.com/light/github" width="64px" />
 </a>
- 
+  
 <a href="https://www.linkedin.com/in/pintu-kumar-12x" target="_blank" rel="noopener noreferrer">
 <img src="https://api.iconify.design/entypo-social:linkedin-with-circle.svg?color=%230a66c2" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 2px; border: 1px solid #e2e8f0;" alt="LinkedIn" />
 </a> 
