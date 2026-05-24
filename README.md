@@ -70,7 +70,7 @@
 
 <img src="https://iconic-api.onrender.com/light/nodejs" width="64px" /> <img src="https://iconic-api.onrender.com/light/express" width="64px" /> <img src="https://iconic-api.onrender.com/light/mongodb" width="64px" /> <img src="https://iconic-api.onrender.com/light/mysql" width="64px" /> <img src="https://cdn.simpleicons.org/socketdotio/white" width="64px" height="64px" style="background-color: #010101; border-radius: 50%; padding: 12px; border: 1px solid #333;" alt="Socket.io" />&nbsp; <img src="https://cdn.simpleicons.org/cloudinary/white" width="64px" height="64px" style="background-color: #3448C5; border-radius: 50%; padding: 12px; border: 1px solid #444;" alt="Cloudinary" />&nbsp; <img src="https://iconic-api.onrender.com/light/fastapi" width="64px" />
 <img src="https://cdn.simpleicons.org/stripe/635BFF" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 12px; border: 1px solid #e2e8f0; object-fit: contain;" alt="Stripe" />
-
+ 
 ## 🚀 Tools & Deployment
 
 <img src="https://iconic-api.onrender.com/light/vercel" width="64px" /> <img src="https://iconic-api.onrender.com/light/render" width="64px" /> <img src="https://iconic-api.onrender.com/light/git" width="64px" /> <img src="https://iconic-api.onrender.com/light/github" width="64px" /> <img src="https://iconic-api.onrender.com/light/postman" width="64px" /> <img src="https://iconic-api.onrender.com/light/visual-studio" width="64px" /> <img src="https://cdn.simpleicons.org/npm/CB3837" width="64px" height="64px" style="background-color: white; border-radius: 100%; padding: 14px; border: 1px solid #e2e8f0; object-fit: contain;" alt="NPM" />
