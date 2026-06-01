@@ -2,7 +2,7 @@
 <div align="center"> 
 <img src="https://raw.githubusercontent.com/Pintu-Kumar-1709/Pintu-Kumar-1709/main/boy.jpeg" width="100%" alt="Pintu Kumar Banner"/>
 </div>         
-                                                         
+                                                          
 <div align="center">     
                             
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1400&color=F0DB4F&background=0D111700&center=true&vCenter=true&width=650&height=60&lines=%E2%9E%9C+~+whoami;Pintu+Kumar;%E2%9E%9C+~+cat+role.txt;Full+Stack+Developer;%E2%9E%9C+~+echo+%24MOTTO;Code.+Build.+Repeat.+%F0%9F%9A%80;%E2%9E%9C+~+git+status;Always+learning%2C+never+stopping." alt="Typing SVG" /> 
