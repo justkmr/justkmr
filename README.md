@@ -95,7 +95,7 @@
 <img src="https://streak-stats.demolab.com?user=justkmr&theme=javascript-dark&border_radius=8"><br>
 
 <!-- ✅ Top Languages + GitHub Stats -->
-<img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=justkmr&theme=javascript-dark&bg_color=0d1117&title_color=f0db4f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&layout=donut&custom_title=Kumar's%20Most%20Used%20Languages">
+<!-- <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=justkmr&theme=javascript-dark&bg_color=0d1117&title_color=f0db4f&text_color=c9d1d9&border_radius=8&include_all_commits=true&count_private=true&layout=donut&custom_title=Kumar's%20Most%20Used%20Languages"> -->
 
 <!-- ✅ GitHub Stats - DARK FORCED via bg_color -->
 <!-- <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=justkmr&show_icons=true&line_height=30&rank_icon=github&theme=javascript-dark&bg_color=0d1117&title_color=f0db4f&text_color=c9d1d9&icon_color=f0db4f&border_radius=8"> -->
