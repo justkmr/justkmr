@@ -60,11 +60,11 @@
 <img src="https://iconic-api.onrender.com/light/nextjs" width="64px" />
  <img src="https://iconic-api.onrender.com/light/redux" width="64px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="64px" style="background-color: white; border-radius: 50%; padding: 10px;" alt="Bootstrap" /> -->
-<img src="https://iconic-api.onrender.com/light/sass" width="64px" />
+<!-- <img src="https://iconic-api.onrender.com/light/sass" width="64px" />
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ejs.svg" width="64px" style="background-color: white; border-radius: 50%; padding: 15px; filter: invert(0);" alt="EJS" />
  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/shadcnui.svg" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 12px; object-fit: contain;" alt="Shadcn UI" />&nbsp;
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framer.svg" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 12px; object-fit: contain;" alt="Aceternity UI" />&nbsp;
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leaflet.svg" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 12px; object-fit: contain;" alt="Leaflet" />
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leaflet.svg" width="64px" height="64px" style="background-color: white; border-radius: 50%; padding: 12px; object-fit: contain;" alt="Leaflet" /> -->
 
 ## ⚙️ Backend & Database
 
