@@ -75,11 +75,12 @@
 
 <!-- <img src="https://iconic-api.onrender.com/light/vercel" width="64px" /> <img src="https://iconic-api.onrender.com/light/render" width="64px" /> <img src="https://iconic-api.onrender.com/light/git" width="64px" /> <img src="https://iconic-api.onrender.com/light/github" width="64px" /> <img src="https://iconic-api.onrender.com/light/postman" width="64px" /> <img src="https://iconic-api.onrender.com/light/visual-studio" width="64px" /> <img src="https://cdn.simpleicons.org/npm/CB3837" width="64px" height="64px" style="background-color: white; border-radius: 100%; padding: 14px; border: 1px solid #e2e8f0; object-fit: contain;" alt="NPM" /> -->
 
-## Develop and TroubleShoot on <img src="https://iconic-api.onrender.com/light/docker" width="44px"/>
+## Develop and TroubleShoot on
+<!-- <img src="https://iconic-api.onrender.com/light/docker" width="44px"/> -->
 
 ## 🎨 Design Tools
 
-<img src="https://iconic-api.onrender.com/light/canva" width="64px" /> <img src="https://iconic-api.onrender.com/light/figma" width="64px" />
+<!-- <img src="https://iconic-api.onrender.com/light/canva" width="64px" /> <img src="https://iconic-api.onrender.com/light/figma" width="64px" /> -->
 
 # 📊 GitHub Stats:
 
