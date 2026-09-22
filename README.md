@@ -115,12 +115,12 @@
 
 
 <!-- ✅ Dev Quote - dark bg with yellow -->
-<h3 style="color:#f0db4f;">✍️ Random Dev Quote</h3>
+<!-- <h3 style="color:#f0db4f;">✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=f0db4f&authorColor=d8d8dd&symbolColor=f0db4f&backgroundColor=1c1c1c">
 
 <hr>
 </div> 
  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=135&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=135&section=footer" width="100%"/> -->
 
